@@ -1,6 +1,6 @@
 fellows
 =======
-<pre><code>
+```
 /*
 ENUMS
 
@@ -100,4 +100,4 @@ id:4	"GET_USER_INFO"
 	op:OP.INVITE,
 	userids:[userids]
 }
-</code></pre>
+```
